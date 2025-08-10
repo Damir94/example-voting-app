@@ -17,6 +17,7 @@ kubectl delete -f k8s-specifications/
 ```
 
 ## Architecture
+<img width="493" height="616" alt="Screenshot 2025-08-10 at 4 50 43 PM" src="https://github.com/user-attachments/assets/87a1e0f7-307b-4d33-a00f-ccf751b1c30f" />
 
 * A front-end web app in [Python](/vote) which lets you vote between two options
 * A [Redis](https://hub.docker.com/_/redis/) which collects new votes
